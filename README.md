@@ -1,19 +1,21 @@
-# Sinhala-English_Dictionary
+# Sinhala-English_Dictionary for macOS
 Dictionary for Sinhala - English words for macOS
 
 Download Xcode Additional tools from this link: https://developer.apple.com/download/all/ (Registeration is required with your apple id.)
 
-Move the Dictionary Development Kit folder to /Applications/Utilities/Dictionary Development Kit/ (without the spaces), and copy the project_templates folder to your desired location
+Move the Dictionary Development Kit folder to /Applications/Utilities/Dictionary Development Kit/.
 
-Open project_templates (from your location) and change DICT_BUILD_TOOL_DIR from ``` /DevTools/Utilities/Dictionary Development Kit ``` to ```/Applications/Utilities/Dictionary Development Kit```
+Clone or download this repository into your computer. Locate to inside the folder to the makefile open it via vim (on the terminal) or any other programme.
 
-Open your terminal (Drag and drop project_templates folder into the terminal window.)
+Change DICT_BUILD_TOOL_DIR from ``` /DevTools/Utilities/Dictionary Development Kit ``` to ```/Applications/Utilities/Dictionary Development Kit```
+
+Open your terminal (Drag and drop downloaded folder into the terminal window.)
 
 ```
-cd ~/{YOUR LOCATION}/project_templates/; make && make install [ENTER]
+cd ~/{YOUR LOCATION}/Sinhala-English_Dictionary/; make && make install [ENTER]
 ```
 
-Or otherwise (Drag and drop project_templates folder into the terminal window.)
+Or otherwise (Drag and drop Sinhala-English_Dictionary folder into the terminal window.)
 
 ```
 cd {YOUR LOCATION} [ENTER]
