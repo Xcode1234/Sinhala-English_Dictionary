@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This is a sample dictionary source file.
+	It can be built using Dictionary Development Kit.
+-->
+
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<d:entry id="අ​ං"  d:title="අ​ං">
+	<d:index d:value="අ​ං​" d:priority="1"/>
+	<d:index d:value="an" d:priority="1"/>
+	<h1>අ​ං</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| añ |</span>
+		<span d:pr="UK_IPA">| añ |</span>
+	</span>
+	<p>
+		Horns 
+		<span d:priority="2">(Plural of අඟ añga.)</span>
+	</p>
+</d:entry>
+
+<d:entry id="අ​ංක_1"  d:title="අ​ං​ක">
+	<d:index d:value="අ​​​​ං​​ක" d:priority="1"/>
+	<d:index d:value="a" d:priority="1"/>
+	<h1>අ​ං​ක</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| ańka |</span>
+		<span d:pr="UK_IPA">| ańka |</span>
+	</span>
+	<p>
+		See 
+		<span d:priority="2">අඞ්ක ańka</span>
+	</p>
+</d:entry>
+
+<d:entry id="අ​ංක_2"  d:title="අ​ංක 2">
+	<d:index d:value="අ​ං​ක" d:priority="1"/>
+	<d:index d:value="anka" d:priority="1"/>
+	<h1>අ​ං​ක</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| ańka |</span>
+		<span d:pr="UK_IPA">| ańka |</span>
+	</span>
+	<p>
+		Number  
+		<span d:priority="2">(Singular අං​කය)</span>
+	</p>
+</d:entry>
+
+<d:entry id="Field"  d:title="Title">
+	<d:index d:value="සිංහල වචන​ය​" d:priority="1"/>
+	<d:index d:value="Singlish" d:priority="1"/>
+	<h1>සිංහල වචන​ය</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| Pronunciation US_IPA |</span>
+		<span d:pr="UK_IPA">| Pronunciation UK_IPA |</span>
+	</span>
+	<p>
+		Meaning 
+		<span d:priority="2">Extra Details</span>
+	</p>
+</d:entry>
+</d:dictionary>

@@ -1,0 +1,48 @@
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="අ​ං"  d:title="අ​ං">
+	
+	<h1>අ​ං</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| añ |</span>
+		<span d:pr="UK_IPA">| añ |</span>
+	</span>
+	<p>
+		Horns 
+		<span d:priority="2">(Plural of අඟ añga.)</span>
+	</p>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="අ​ංක_1"  d:title="අ​ං​ක">
+	
+	<h1>අ​ං​ක</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| ańka |</span>
+		<span d:pr="UK_IPA">| ańka |</span>
+	</span>
+	<p>
+		See 
+		<span d:priority="2">අඞ්ක ańka</span>
+	</p>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="අ​ංක_2"  d:title="අ​ංක 2">
+	
+	<h1>අ​ං​ක</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| ańka |</span>
+		<span d:pr="UK_IPA">| ańka |</span>
+	</span>
+	<p>
+		Number  
+		<span d:priority="2">(Singular අං​කය)</span>
+	</p>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="Field"  d:title="Title">
+	
+	<h1>සිංහල වචන​ය</h1>
+	<span class="syntax">
+		<span d:pr="US_IPA">| Pronunciation US_IPA |</span>
+		<span d:pr="UK_IPA">| Pronunciation UK_IPA |</span>
+	</span>
+	<p>
+		Meaning 
+		<span d:priority="2">Extra Details</span>
+	</p>
+</d:entry>
