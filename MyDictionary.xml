@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	This is a sample dictionary source file.
+	This is a dictionary source file.
 	It can be built using Dictionary Development Kit.
+	Enclose definitions within d:entry tags 
+	Still preview.
 -->
 
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
