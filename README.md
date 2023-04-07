@@ -34,7 +34,7 @@ make install [ENTER]
 
 Follow the above steps and install Xcode Additional Tools. 
 
-Copy the source files to the project_templates file location on your Dictionary Development Kit. (Make sure not to copy the folder. Just copy the files)
+Copy the source files to the project_templates file location on your Dictionary Development Kit. (Or just rename the folder Sinhala-English_Dictionary to project_templates. **(Make sure to duplicate the folder.)**)
 
 Then copy the folder to your desired location.
 
@@ -42,7 +42,7 @@ Locate to inside the folder to the makefile open it via vim (on the terminal) or
 
 Change DICT_BUILD_TOOL_DIR from ``` /DevTools/Utilities/Dictionary Development Kit ``` to ```/Applications/Utilities/Dictionary Development Kit```
 
-Open your terminal (Drag and drop downloaded folder into the terminal window.)
+Open your terminal (Drag and drop project_templates folder into the terminal window.)
 
 ```
 cd ~/{LOCATION}/project_templates/; make && make install [ENTER]
