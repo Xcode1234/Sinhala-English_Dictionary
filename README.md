@@ -29,7 +29,7 @@ make [ENTER]
 make install [ENTER]
 ```
 
-#Files
+# Files
 
 MyInfo.plist contains the related information for dictionary.
 
