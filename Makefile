@@ -9,9 +9,9 @@
 # You need to edit these values.
 
 DICT_NAME		=	"Sinhala-English Dictionary"
-DICT_SRC_PATH		=	MyDictionary.xml
-CSS_PATH		=	MyDictionary.css
-PLIST_PATH		=	MyInfo.plist
+DICT_SRC_PATH		=	Dictionary.xml
+CSS_PATH		=	Dictionary.css
+PLIST_PATH		=	Info.plist
 
 DICT_BUILD_OPTS		=
 # Suppress adding supplementary key.
