@@ -8,7 +8,7 @@ Move the Dictionary Development Kit folder to /Applications/Utilities/Dictionary
 
 Clone or download this repository into your computer. Locate to inside the folder to the makefile open it via vim (on the terminal) or any other programme.
 
-Change DICT_BUILD_TOOL_DIR from ``` /DevTools/Utilities/Dictionary Development Kit ``` to ```/Applications/Utilities/Dictionary Development Kit```
+Change ``` DICT_BUILD_TOOL_DIR ```from ``` /DevTools/Utilities/Dictionary Development Kit ``` to ```/Applications/Utilities/Dictionary Development Kit```
 
 Open your terminal (Drag and drop downloaded folder into the terminal window.)
 
