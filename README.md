@@ -28,3 +28,9 @@ make [ENTER]
 ```
 make install [ENTER]
 ```
+
+#Files
+
+MyInfo.plist contains the related information for dictionary.
+
+MyDictionary.xml contains the definitions.
