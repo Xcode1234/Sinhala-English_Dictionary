@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
+	<string>Sinhala Bilingual</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.your_company.dictionary.MySample</string>
+	<string>com.sinhala-universal.dictionary.ver-0.1</string>
 	<key>CFBundleName</key>
-	<string>MyDictionary</string>
+	<string>Sinhala-Bilingual</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryCopyright</key>
-	<string>Copyright © 2007-2018 Your Company</string>
+	<string>Sinhala-Bilingual Dictionaries Sourced from multiple locations</string>
 	<key>DCSDictionaryManufacturerName</key>
-	<string>Your Company</string>
+	<string>Sinhala-Bilingual</string>
 	<key>DCSDictionaryFrontMatterReferenceID</key>
 	<string>front_back_matter</string>
 	<key>DCSDictionaryPrefsHTML</key>
