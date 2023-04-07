@@ -64,9 +64,9 @@ make install [ENTER]
 
 # Files
 
-***MyInfo.plist*** contains the related information for dictionary.
+***Info.plist*** contains the related information for dictionary.
 
-***MyDictionary.xml*** contains the definitions.
+***Dictionary.xml*** contains the definitions.
 
 # Instructions to build
 
